@@ -69,3 +69,26 @@ body{
     padding:0 36px;
 }
 
+/* hero section styling */
+.hero{
+    background:linear-gradient(to right, rgba(1, 50, 35, 1), rgba(0, 103, 71, 1),rgba(1, 50, 35, 1));
+    color: white;
+    text-align: center;  
+}
+
+.hero img{
+    height: 92px;
+    width: 92px;
+    padding-top: 21px;
+    background-color: ;
+}
+
+#hero-title{
+    font-size: 40px;
+    font-weight:600 ;
+}
+
+#hero-subtitle{
+    font-size: 18px;
+    font-weight: 600;
+    padding-bottom: 21px;
